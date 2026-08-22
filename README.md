@@ -22,6 +22,7 @@ SpendWise is a MERN-stack app (MongoDB, Express, React, Node) built as a portfol
 **Frontend:** React 18, Vite, React Router, Tailwind CSS, Axios, Recharts, Lucide icons
 **Backend:** Node.js, Express, JWT, bcryptjs
 **Database:** MongoDB with Mongoose
+**Deployment:** Render, MongoDB Atlas
 
 ## Architecture
 
@@ -185,3 +186,9 @@ _Add screenshots here after running the app locally — Dashboard, Transactions,
 - Multi-currency conversion instead of a single display currency
 - Shared/household budgets
 - Push/email notifications when a budget crosses a threshold
+
+## Live Demo
+
+Frontend: https://spendwise-frontend-l9ax.onrender.com
+
+Backend API: https://spendwise-api-b7ih.onrender.com
