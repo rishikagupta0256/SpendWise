@@ -1,6 +1,6 @@
 # SpendWise
 
-A full-stack personal finance and expense intelligence dashboard. Track income and expenses, set category budgets, and get automatically generated spending insights — all backed by a real MongoDB database.
+A full-stack personal finance and expense intelligence dashboard. Track income and expenses, set category budgets, and get automatically generated spending insights — all backed by the real MongoDB database.
 
 ## Overview
 
